@@ -1,0 +1,3 @@
+[submodule "myc"]
+	path = myc
+	url = git@github.com:hhkrob1/myc.git
